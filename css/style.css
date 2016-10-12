@@ -1,0 +1,16 @@
+body {
+	font-family: Arial;
+}
+
+.centered {
+  position: relative;
+  margin: auto;
+  width: 20%;
+  padding: auto;
+
+}
+
+h1,h3,h4 {
+	text-align: center;
+}
+
